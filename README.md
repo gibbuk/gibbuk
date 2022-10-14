@@ -1,4 +1,4 @@
-<img src="https://github.com/gibbuk/gibbuk/blob/main/profile-banner-1st-name.png" alt="banner that says Hi, I'm Alistair">
+<img src="https://github.com/gibbuk/gibbuk/blob/main/profile-banner-1st-name_grey.png" alt="banner that says Hi, I'm Alistair">
 
 ## About me
 I'm a trainee software engineer and career changer, making the change from directing complex digital solutions to building them. I am proud to have completed the intensive Software Engineering course with Digital Futures Academy, building my skills in software development and industry practices as part of an organisation dedicated to diversity and inclusion.
