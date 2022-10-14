@@ -7,7 +7,7 @@ I'm a trainee software engineer and career changer, making the change from direc
 Through the Digital Futures Academy I have experience in decomposing and analysing user stories in order to build Full Stack web applications, both independently and as part of Agile Scrum teams. I have used Domain Modelling, Test-Drive Design and Object-Oriented Programming principles to ensure my code is clean, scalable and meets the requirements. Technologies include: JS, React, Node, Express, MongoDB, HTML/CSS and Java.
 
 ## Outside of coding
-I'm a drummer, bmxer and gamer. I'm always looking to learn and push myself. This has led me to achieving silly things like writing a novel in a month (twice!).
+I'm a drummer, bmxer and gamer. I'm always looking to learn and push myself. This has led me to achieving silly things like writing a novel in a month and producing a short film in 48 hours.
 
 <!--
 **gibbuk/gibbuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
