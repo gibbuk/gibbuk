@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://github.com/gibbuk/gibbuk/blob/main/profile-banner-1st-name.png" alt="banner that says Hi, I'm Alistair">
+
+
 <!--
 **gibbuk/gibbuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
