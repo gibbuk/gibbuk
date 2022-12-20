@@ -5,7 +5,7 @@ I'm a junior software engineer with [Digital Futures](https://digitalfutures.com
 
 My most recent engineering deployment with Digital Futures was to a pioneering game, modelling and simulation start up. 
 
-Prior to my employemnt with Digital Futures, I built my skills and confidence in software development through completion of their Academy programme.  I am proud to have made my career change as part of an organisation dedicated to diversity and inclusion.
+Prior to my employment with Digital Futures, I built my skills and confidence in software development through completion of their Academy programme.  I am proud to have made my career change as part of an organisation dedicated to diversity and inclusion.
   
 ## Technologies/experience
 In my deployment I was part of an Agile engineering team with front and back end responsibilities to implement new features, changes and bug fixes. The front end was built using ReactJS, Redux and typescript. The backend with Typescript, Node, NestJS and ArangoDB.
