@@ -1,7 +1,7 @@
 <img src="https://github.com/gibbuk/gibbuk/blob/main/profile-banner-1st-name_grey.png" alt="banner that says Hi, I'm Alistair">
 
 ## About me
-I'm a junior software engineer with [Digital Futures](https://digitalfutures.com/). I'm also a career changer making the change from directing complex digital solutions to building them. 
+I'm a junior software engineer with [Digital Futures](https://digitalfutures.com/). I'm also a career changer making the change from directing complex digital solutions to building them. I made the change to be closer to the satisfaction that comes with building and implementing a solution, the camaraderie and thrill that comes with working as part of an Agile team and the opportunity software development offers for exposure to new sectors, organisations and problem domains.
 
 My most recent engineering deployment with Digital Futures was to a pioneering game, modelling and simulation start up. 
 
